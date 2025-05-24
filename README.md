@@ -1,6 +1,6 @@
-# 🚀 MERN Crash Course – Demo App
+# 🚀 MERN Stack Project – Fiction Store (Product Store)
 
-A complete full-stack demo application built with the **MERN stack**. This app is a hands-on project from a crash course on YouTube to help you understand how to build, structure, and deploy a modern full-stack web application.
+A complete full-stack demo application built with the **MERN stack**.
 
 ---
 
